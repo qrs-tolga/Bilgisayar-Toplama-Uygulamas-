@@ -1,1 +1,2 @@
-# Bilgisayar-Toplama-Uygulamas-
+# Bilgisayar-Toplama-Uygulamasi
+
